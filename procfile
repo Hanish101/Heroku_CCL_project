@@ -1,0 +1,1 @@
+web: gunicorn Age_Calculator_GUI:app --log-file -
